@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Brian\\source\\repos\\455.NetMaui-MSG-Paintball-\\MSG_Paintball\\",
+  "WorkspaceRootPath": "C:\\Users\\Brian\\source\\repos\\MSG-Paintball\\MSG_Paintball\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F42BB5C-7BD4-404A-B6DD-35B9EB6BDC0C}|MSG_Paintball\\MSG_Paintball.csproj|c:\\users\\brian\\source\\repos\\455.netmaui-msg-paintball-\\msg_paintball\\msg_paintball\\msg_login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6F42BB5C-7BD4-404A-B6DD-35B9EB6BDC0C}|MSG_Paintball\\MSG_Paintball.csproj|c:\\users\\brian\\source\\repos\\msg-paintball\\msg_paintball\\msg_paintball\\msg_login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6F42BB5C-7BD4-404A-B6DD-35B9EB6BDC0C}|MSG_Paintball\\MSG_Paintball.csproj|solutionrelative:msg_paintball\\msg_login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MSG_Login.xaml",
-              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\455.NetMaui-MSG-Paintball-\\MSG_Paintball\\MSG_Paintball\\MSG_Login.xaml",
+              "DocumentMoniker": "C:\\Users\\Brian\\source\\repos\\MSG-Paintball\\MSG_Paintball\\MSG_Paintball\\MSG_Login.xaml",
               "RelativeDocumentMoniker": "MSG_Paintball\\MSG_Login.xaml",
-              "ToolTip": "C:\\Users\\Brian\\source\\repos\\455.NetMaui-MSG-Paintball-\\MSG_Paintball\\MSG_Paintball\\MSG_Login.xaml",
+              "ToolTip": "C:\\Users\\Brian\\source\\repos\\MSG-Paintball\\MSG_Paintball\\MSG_Paintball\\MSG_Login.xaml",
               "RelativeToolTip": "MSG_Paintball\\MSG_Login.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",

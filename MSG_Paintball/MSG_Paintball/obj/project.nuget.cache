@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CWdl2StNj2M=",
+  "dgSpecHash": "PvdBMv7h6Ew=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Brian\\source\\repos\\455.NetMaui-MSG-Paintball-\\MSG_Paintball\\MSG_Paintball\\MSG_Paintball.csproj",
+  "projectFilePath": "C:\\Users\\Brian\\source\\repos\\MSG-Paintball\\MSG_Paintball\\MSG_Paintball\\MSG_Paintball.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Brian\\.nuget\\packages\\googlegson\\2.13.0.1\\googlegson.2.13.0.1.nupkg.sha512",
     "C:\\Users\\Brian\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.5\\microsoft.extensions.configuration.9.0.5.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Brian\\source\\repos\\455.NetMaui-MSG-Paintball-\\MSG_Paintball\\MSG_Paintball\\MSG_Paintball.csproj": {}
+    "C:\\Users\\Brian\\source\\repos\\MSG-Paintball\\MSG_Paintball\\MSG_Paintball\\MSG_Paintball.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brian\\source\\repos\\455.NetMaui-MSG-Paintball-\\MSG_Paintball\\MSG_Paintball\\MSG_Paintball.csproj": {
+    "C:\\Users\\Brian\\source\\repos\\MSG-Paintball\\MSG_Paintball\\MSG_Paintball\\MSG_Paintball.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brian\\source\\repos\\455.NetMaui-MSG-Paintball-\\MSG_Paintball\\MSG_Paintball\\MSG_Paintball.csproj",
+        "projectUniqueName": "C:\\Users\\Brian\\source\\repos\\MSG-Paintball\\MSG_Paintball\\MSG_Paintball\\MSG_Paintball.csproj",
         "projectName": "MSG_Paintball",
-        "projectPath": "C:\\Users\\Brian\\source\\repos\\455.NetMaui-MSG-Paintball-\\MSG_Paintball\\MSG_Paintball\\MSG_Paintball.csproj",
+        "projectPath": "C:\\Users\\Brian\\source\\repos\\MSG-Paintball\\MSG_Paintball\\MSG_Paintball\\MSG_Paintball.csproj",
         "packagesPath": "C:\\Users\\Brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brian\\source\\repos\\455.NetMaui-MSG-Paintball-\\MSG_Paintball\\MSG_Paintball\\obj\\",
+        "outputPath": "C:\\Users\\Brian\\source\\repos\\MSG-Paintball\\MSG_Paintball\\MSG_Paintball\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
